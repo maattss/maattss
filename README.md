@@ -1,4 +1,4 @@
-### Hi, I'm Mats 👋
+### Hi, there I'm Mats 👋
 
 <a href="https://twitter.com/maattss">
   <img align="left" alt="Mats Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -9,25 +9,28 @@
 <a href="https://www.linkedin.com/in/mtyldum/">
   <img align="left" alt="Mats LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="mailto:ma.tyldum@gmail.com">
+  <img align="left" alt="Mats Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br />
 <br />
+
+- 5th year Computer science student at [Norwegian University of Technology](https://www.ntnu.edu/)
+- Part time software Engineer at [Bouvet](https://en.bouvet.no/)
+- Passionate about writing clean code
+- Please feel free to contact me if you like!
+
+<br />
+<br />
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+<br />
+<br />
+
+⭐️ [maattss](https://github.com/maattss)
 
 <!--
 **maattss/maattss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
