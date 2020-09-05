@@ -29,7 +29,7 @@
 <br />
 <br />
 
-⭐️ [maattss](https://github.com/maattss)
+⭐️ From [maattss](https://github.com/maattss)
 
 <!--
 **maattss/maattss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
