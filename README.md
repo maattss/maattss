@@ -20,8 +20,3 @@
 - Part time software developer at [Bouvet](https://en.bouvet.no/).
 - Passionate about writing clean code.
 - Please feel free to contact me!
-
-<br />
-<br />
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
