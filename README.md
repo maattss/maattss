@@ -18,5 +18,3 @@
 
 - 5th year computer science student at [Norwegian University of Technology](https://www.ntnu.edu/).
 - Part time software developer at [Bouvet](https://en.bouvet.no/).
-- Passionate about writing clean code.
-- Please feel free to contact me!
